@@ -2,9 +2,10 @@
 
 https://www.jetbrains.com/kotlin-multiplatform/
 
-https://www.youtube.com/playlist?list=PLrn69hTK5FBxT4PTS9nOKFfpUc5DWp9Fp
+**Curso Kotlin Multiplatform desde cero - [2024] Kotlin Compose Multiplatform**:
 
-https://www.youtube.com/watch?v=smAhUwEQ1d8&list=RDCMUCIjEgHA1vatSR2K4rfcdNRg&start_radio=1&rv=smAhUwEQ1d8&t=1448&t=0
+https://www.youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3
+
 
 
 
